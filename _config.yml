@@ -6,7 +6,7 @@ description: This is a site store my writeup for CTF exam <br /> . Also study an
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address:
+street_address: 
 city: Tp.HCM
 state: 
 zip_code: 
@@ -19,7 +19,7 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:https://www.facebook.com/vuong.vo.963434
+facebook_url: https://www.facebook.com/vuong.vo.963434
 github_url:
 gitlab_url: 
 googleplus_url: https://plus.google.com/u/0/117756886422615270544
