@@ -1,7 +1,4 @@
 ---
-published: true
----
----
 layout: post
 title: Hello world
 description: I love you
