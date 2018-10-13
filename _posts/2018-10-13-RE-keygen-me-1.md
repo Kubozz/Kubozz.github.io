@@ -14,7 +14,9 @@ ok..try run it.
 
 The program is request a parameter . This parameter must lenght is 16 byte . So we need input 16 character for this file. if this input correct then program will show flag.
 Open file with IDA pro to see souce code. Found to main function 
+
 ![test image]({{ site.url | absolute_path}}/assets/images/picoctf2018_5.PNG)
+
 Summary program active :
 Firstly -> program will check parameter . if parameter < 1 program will show "Please Provide a VALID 16 byte Product Key." else it will call check_valid_key(). This is check_valid_key() code :
 
