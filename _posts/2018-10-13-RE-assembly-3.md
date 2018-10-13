@@ -2,7 +2,7 @@
 layout: post
 title: picoCTF2018
 description: RE assembly 3 Points 400
-image: assets/images/pic01.jpg
+image: assets/images/picoctf2018_3.PNG
 ---
 
 At this challenge , We have a file asm :
