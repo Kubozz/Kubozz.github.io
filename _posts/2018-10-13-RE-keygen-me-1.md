@@ -22,8 +22,11 @@ Firstly -> program will check parameter . if parameter < 1 program will show "Pl
 
 ![test image]({{ site.url | absolute_path}}/assets/images/picoctf2018_8.PNG)
 
+The main purpose of check_valid_key() is check characters in the range "0"->"9" and "A" -> "Z".
+Next validate_key() function:
 
+![test image]({{ site.url | absolute_path}}/assets/images/picoctf2018_9.PNG)
 
-
-
+The main purpose of this function is check sum of (key[i] * index+i) (i in range 0->14) then take compare sum % 0x24 with key[15]. if equal will show flag.
+ok.. I writed a script python to show Product Key
 
