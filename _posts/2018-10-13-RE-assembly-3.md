@@ -1,7 +1,7 @@
 ---
 layout: post
 title: picoCTF2018
-description: RE-assembly-3-Points: 400
+description: RE assembly 3 Points 400
 image: assets/images/pic01.jpg
 ---
 
