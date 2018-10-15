@@ -1,7 +1,7 @@
 ---
 layout: post
 title: picoCTF2018
-description:  RE keygen me 2 (400)
+description:  RE keygen me 2 (750)
 image: assets/images/picoctf2018_12.PNG
 ---
 
