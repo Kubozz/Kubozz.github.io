@@ -7,7 +7,7 @@ image: assets/images/picoctf2018_4.PNG
 This challenge is give we a file like this:
 
 ![test image]({{ site.url | absolute_path}}/assets/images/picoctf2018_6.PNG)
-That is a file ELF 32-bit  LSB executable,
+This is a file ELF 32-bit  LSB executable,
 ok..try run it.
 
 ![test image]({{ site.url | absolute_path}}/assets/images/picoctf2018_7.PNG)
